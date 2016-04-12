@@ -1,5 +1,5 @@
 # KELLI WAISS
-### Full Stack Web Developer
+### *Full Stack Web Developer*
 
 425.260.5083  
 krwaiss@gmail.com  
