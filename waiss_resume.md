@@ -9,9 +9,10 @@ krwaiss@gmail.com
 [kelliwaiss.com](http://kelliwaiss.com/ "My Personal Website")  
 
 <img src="http://image005.flaticon.com/25/svg/25/25231.svg" alt="github" height="18px" width="18px"> 
-[github.com/K-Dubb](https://github.com/K-Dubb/ "Github")  
-<img src="http://www.dmi.ac.in/sites/default/files/linkedin_circle_black-512.png" alt="linkedIn" height="18px" width="18px"> [linkedin.com/in/kelliwaiss](https://www.linkedin.com/in/kelliwaiss/ "LinkedIn")  
-<img src="https://image.freepik.com/free-icon/twitter-logo_318-40209.png" alt="twitter" height="18px" width="18px"> [@K_Waiss](https://twitter.com/K_Waiss/ "Twitter") 
+[Github](https://github.com/K-Dubb/ "Github")  
+<img src="http://www.dmi.ac.in/sites/default/files/linkedin_circle_black-512.png" alt="linkedIn" height="18px" width="18px"> [LinkedIn](https://www.linkedin.com/in/kelliwaiss/ "LinkedIn")  
+<img src="https://image.freepik.com/free-icon/twitter-logo_318-40209.png" alt="twitter" height="18px" width="18px"> [Twitter](https://twitter.com/K_Waiss/ "Twitter")  
+<img src="http://www.estherperel.com/wp-content/uploads/2014/07/icon_circle_black_medium.png" alt="medium" height="18px" width="18px"> [Blog](https://medium.com/@krwaiss/ "Medium")
 
 #### SKILLS 
 ------------
