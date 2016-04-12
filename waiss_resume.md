@@ -70,10 +70,10 @@ Seattle Children's Hospital | DEC 2011 - MAR 2012
 **WEB DEVELOPMENT IMMERSIVE**  
 General Assembly, Austin, TX  
 
-**BACHELOR OF SCIENCE, MAJOR IN NURSING**  
-Carroll College, Helena, MT  
-
 **'INTRODUCTION TO PROGRAMMING' JAVA COURSE**  
 South Seattle Community College, Seattle, WA  
+
+**BACHELOR OF SCIENCE, MAJOR IN NURSING**  
+Carroll College, Helena, MT  
 
 **UNIVERSITY OF WASHINGTON,** Seattle, WA  
