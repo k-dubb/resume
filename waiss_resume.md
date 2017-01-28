@@ -1,8 +1,5 @@
 # KELLI WAISS
-## Full Stack Web Developer
-
-#### CONTACT
-------------
+### *Full Stack Web Developer*
 
 425.260.5083  
 krwaiss@gmail.com  
@@ -34,7 +31,7 @@ krwaiss@gmail.com
 + Bootstrap & Semantic-UI 
 + Git & Github
 
-### ATTRIBUTES 
+#### ATTRIBUTES 
 ---------------
 
 + Strong problem solving & analytical skills
@@ -43,7 +40,7 @@ krwaiss@gmail.com
 + Excellent written and verbal communication skills
 + Works well independently and on a team 
 
-### EXPERIENCE 
+#### EXPERIENCE 
 --------------
 
 **Web Developer
@@ -75,16 +72,16 @@ Seattle Children's Hospital | DEC 2011 - MAR 2012
 - Prioritized a busy workload.
 - Utilized Electronic Medical Records.  
 
-### EDUCATION 
+#### EDUCATION 
 -------------
 
 **WEB DEVELOPMENT IMMERSIVE**  
 General Assembly, Austin, TX  
 
-**BACHELOR OF SCIENCE, MAJOR IN NURSING**  
-Carroll College, Helena, MT  
-
 **'INTRODUCTION TO PROGRAMMING' JAVA COURSE**  
 South Seattle Community College, Seattle, WA  
+
+**BACHELOR OF SCIENCE, MAJOR IN NURSING**  
+Carroll College, Helena, MT  
 
 **UNIVERSITY OF WASHINGTON,** Seattle, WA  
