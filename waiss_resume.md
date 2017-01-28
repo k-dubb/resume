@@ -9,6 +9,7 @@ krwaiss@gmail.com
 [Github](https://github.com/K-Dubb/ "Github")  
 <img src="http://www.dmi.ac.in/sites/default/files/linkedin_circle_black-512.png" alt="linkedIn" height="18px" width="18px"> [LinkedIn](https://www.linkedin.com/in/kelliwaiss/ "LinkedIn")  
 <img src="https://image.freepik.com/free-icon/twitter-logo_318-40209.png" alt="twitter" height="18px" width="18px"> [Twitter](https://twitter.com/K_Waiss/ "Twitter")
+
 <img src="http://www.estherperel.com/wp-content/uploads/2014/07/icon_circle_black_medium.png" alt="medium" height="18px" width="18px"> [Blog](https://medium.com/@krwaiss/ "Medium")
 
 #### SKILLS 
@@ -24,7 +25,6 @@ krwaiss@gmail.com
 + AngularJS
 + Node.js
 + AJAX
-+ Ruby on Rails 
 + A/B Testing
 + HTML Emails
 + RESTful APIs
@@ -43,7 +43,7 @@ krwaiss@gmail.com
 #### EXPERIENCE 
 --------------
 
-**Web Developer
+**Web Developer**
 All Web Leads | JUN 2016 - PRESENT
 - Work to enhance the existing performance, design, and responsiveness of our consumer & B2B websites, as well as the agent console, in order to create the best experience possible for our users.
 - Build new web experiences that attract and inform consumers.
