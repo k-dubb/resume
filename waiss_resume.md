@@ -5,8 +5,7 @@
 krwaiss@gmail.com  
 [kelliwaiss.com](http://kelliwaiss.com/ "My Personal Website")  
 
-<img src="http://image005.flaticon.com/25/svg/25/25231.svg" alt="github" height="18px" width="18px"> 
-[Github](https://github.com/K-Dubb/ "Github")  
+<img src="http://image005.flaticon.com/25/svg/25/25231.svg" alt="github" height="18px" width="18px"> [Github](https://github.com/K-Dubb/ "Github")  
 <img src="http://www.dmi.ac.in/sites/default/files/linkedin_circle_black-512.png" alt="linkedIn" height="18px" width="18px"> [LinkedIn](https://www.linkedin.com/in/kelliwaiss/ "LinkedIn")  
 <img src="https://image.freepik.com/free-icon/twitter-logo_318-40209.png" alt="twitter" height="18px" width="18px"> [Twitter](https://twitter.com/K_Waiss/ "Twitter")  
 <img src="http://www.estherperel.com/wp-content/uploads/2014/07/icon_circle_black_medium.png" alt="medium" height="18px" width="18px"> [Blog](https://medium.com/@krwaiss/ "Medium")
@@ -25,8 +24,6 @@ krwaiss@gmail.com
 + Node.js
 + AJAX
 + A/B Testing
-+ HTML Emails
-+ RESTful APIs
 + Bootstrap & Semantic-UI 
 + Git & Github
 
@@ -49,10 +46,11 @@ All Web Leads | JUN 2016 - PRESENT
 - Work with the Marketing/SEO teams to prioritize and complete work to promote and boost business performance.
 - Configure design mockups into physical applications.
 - Perform A/B testing to improve user engagement.
+- Built the first in-house module for Orchard CMS.
 
 **WEB DEVELOPMENT IMMERSIVE**  
 General Assembly | NOV 2015 - MAR 2016 
-- Full stack web development course where I learned JavaScript and Ruby in addition to fundamentals, frameworks, databases, and responsive design. 
+- Full stack web development course where I learned JavaScript and node.js, Ruby on Rails, programming fundamentals, frameworks, databases, and responsive design. 
 - Collaborated with others to produce multiple group and individual web applications.
 - Version control with git and Github.  
 
@@ -69,7 +67,6 @@ Seattle Children's Hospital | DEC 2011 - MAR 2012
 - Practiced care based on the psychosocial and developmental stage of each patient.
 - Promoted and educated patients/families about healthy living.
 - Prioritized a busy workload.
-- Utilized Electronic Medical Records.  
 
 #### EDUCATION 
 -------------
